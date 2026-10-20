@@ -641,7 +641,7 @@ const S=[
 
  {say:'tớ xin gửi cậu bốn lời chúc nhé', bars:1.5, mood:'wave', bg:2},
  {scene:'health', mode:'side', say:'chúc cậu thật nhiều <em>sức khỏe</em> — để có thể đi hết những nơi cậu muốn đến', bars:2.4, mood:'talk', bg:1, fx:{meteor:.6}},
- {scene:'peace', say:'chúc cậu <em>luôn ngập tràn ơn phước</em> và niềm vui trên mỗi bước đường đi cùng Ngài ', bars:2.2, mood:'talk', bg:1},
+ {scene:'peace', say:'chúc cậu <em>luôn ngập tràn ơn phước</em> và <em>niềm vui</em> trên mỗi bước đường đi cùng Ngài ', bars:2.2, mood:'talk', bg:1},
  {scene:'free', say:'chúc cậu đủ <em>tự do</em> để làm điều mình thích, và đủ dũng cảm để theo đuổi nó', bars:2.5, mood:'talk', bg:0, fx:{lantern:1,meteor:.8}},
  {scene:'love', say:'chúc cậu luôn được <em>yêu thương</em> — đúng cách, đúng người, và cả bởi chính cậu', bars:2.5, mood:'happy', bg:2, fx:{hearts:1,petals:.3}},
 
