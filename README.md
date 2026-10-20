@@ -570,7 +570,7 @@ button{touch-action:manipulation;-webkit-appearance:none;appearance:none}
       <p style="font-size: clamp(10px, 2.5vw, 12px); color: var(--gold); text-align: right; margin-top: 4px;">— 1 Phi-e-rơ 3:4 —</p>
     </div>
     <div class="f-act">
-      <button id="b-link" class="alt" hidden>chép link</button>
+      
       <button id="b-replay" class="alt">xem lại</button>
     </div>
   </div></section>
