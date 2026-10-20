@@ -565,6 +565,10 @@ button{touch-action:manipulation;-webkit-appearance:none;appearance:none}
     <div class="f-date">20 · 10</div>
     <p class="f-to" id="f-to">gửi người phụ nữ tuyệt vời</p>
     <p class="f-msg">mong mỗi ngày của cậu đều có hoa, có nắng, có tiếng cười — và có người nhớ đến cậu thật nhiều.</p>
+    <div style="margin-top: 10px; padding: 8px 12px; background: rgba(255,122,184,0.08); border-left: 2px solid var(--pink); border-radius: 4px; text-align: left;">
+      <p style="font-size: clamp(11px, 3vw, 13.5px); line-height: 1.4; color: #ffd9ec; font-style: italic;">“Hãy trang điểm con người bề trong thầm kín bằng vẻ đẹp không phai tàn của tinh thần dịu dàng, yên lặng; đó là điều quý giá trước mặt Đức Chúa Trời.”</p>
+      <p style="font-size: clamp(10px, 2.5vw, 12px); color: var(--gold); text-align: right; margin-top: 4px;">— 1 Phi-e-rơ 3:4 —</p>
+    </div>
     <div class="f-act">
       <button id="b-link" class="alt" hidden>chép link</button>
       <button id="b-replay" class="alt">xem lại</button>
