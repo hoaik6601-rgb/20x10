@@ -482,7 +482,7 @@ button{touch-action:manipulation;-webkit-appearance:none;appearance:none}
     <div class="card rv" id="c1"><span class="ic">☀</span><span>Mang lại năng lượng tích cực và sự ấm áp cho mọi người mỗi ngày</span></div>
     <div class="card rv" id="c2"><span class="ic">✿</span><span>Luôn dịu dàng, chu đáo và biết ơn trong từng việc nhỏ ở gia đình lẫn Hội Thánh</span></div>
     <div class="card rv" id="c3"><span class="ic">☾</span><span>Giữ vững lòng tin yêu và sự khiêm nhường ngay cả khi đối diện với những thử thách trong cuộc sống</span></div>
-    <div class="card rv" id="c4"><span class="ic">✦</span><span>Âm thầm cầu thay, chia sẻ và nâng đỡ những người xung quan</span></div>
+    <div class="card rv" id="c4"><span class="ic">✦</span><span>Âm thầm cầu thay, chia sẻ và nâng đỡ những người xung quanh</span></div>
   </div></section>
 
   <section class="scene" id="sc-health"><div class="health">
@@ -631,7 +631,7 @@ const S=[
  {say:'từ Hai Bà Trưng, Bà Triệu thuở dựng nước, đến những người con gái kiên cường của thế kỷ XX', bars:2.4, mood:'talk', reveal:['n3','l3','e23','n4','l4','e24','n5','l5','e35','e45']},
  {say:'và còn những người không có tên trong sách: bà, mẹ, chị, cô giáo… và cả <em>cậu</em> nữa', bars:2.4, mood:'happy', reveal:['n6','l6','e46','e56'], fx:{meteor:2.2,petals:.3}},
 
- {scene:'unseen', say:'có những điều mà  vẫn lặng lẽ làm mỗi ngày…', bars:2, mood:'talk', bg:2, fx:{petals:.2}},
+ {scene:'unseen', say:'có những điều mà cậu vẫn lặng lẽ làm mỗi ngày…', bars:2, mood:'talk', bg:2, fx:{petals:.2}},
  {say:'', bars:1.15, reveal:['c1']},
  {say:'', bars:1.15, reveal:['c2']},
  {say:'', bars:1.15, reveal:['c3']},
